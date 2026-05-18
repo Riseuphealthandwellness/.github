@@ -1,6 +1,6 @@
 # RiseUp Health & Wellness
 
-<p align="center">
+<p align="left">
   <img src="./assets/riseup-health-wellness-logo.png" alt="Rise Up Health & Wellness logo" width="360">
 </p>
 
